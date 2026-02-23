@@ -18,17 +18,22 @@ The schema models a real-world e-commerce system with proper use of:
 4.	Table Relationships
 
 Exercises Completed
+
 Exercise 1:
 1.	Created database and tables
 2.	Defined primary and foreign key relationships
+
 Exercise 2:
 1.	Inserted sample data into all tables
 2.	Practiced SELECT statements
+
 Exercise 3:
 1.	Applied filtering using WHERE
 2.	Sorted data using ORDER BY
+
 Exercise 4:
 1.	Used aggregate functions (COUNT, SUM, AVG, MIN, MAX)
+
 Exercise 5:
 1.	Implemented GROUP BY and HAVING clauses
 
