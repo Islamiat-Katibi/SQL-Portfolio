@@ -3,7 +3,9 @@ Overview
 This phase focuses on building a strong foundation in SQL using Microsoft SQL Server.  
 The goal is to understand core database concepts including table creation, data insertion, filtering, and basic aggregation.
 This phase is part of my structured journey from Beginner to Intermediate SQL Developer, documented step-by-step in this repository.
+
 Database Project: OnlineStore
+
 In this phase, I designed and built a simple relational database called “OnlineStore”.
 Tables Created:
 1.	Customers
@@ -51,6 +53,7 @@ Skills Practiced
 3.	GitHub
 
 Learning Approach
+
 Each exercise is saved as a separate `.sql` file to demonstrate incremental progress and structured learning.
 
 This repository reflects deliberate practice, not copied solutions.
